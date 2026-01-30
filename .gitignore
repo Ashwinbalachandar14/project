@@ -1,0 +1,20 @@
+# Ignore all datasets
+Dataset/Groundwater.csv
+*.csv
+
+# Ignore satellite TIFF files
+*.tif
+*.tiff
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore models
+*.h5
+*.pt
+*.pkl
